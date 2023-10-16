@@ -18,7 +18,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/FedoraQt/QAdwaitaDecorations.git",
-                    "commit": "d0d37fc0817f6d7627e763eb1ead1c8ec14d865b"
+                    "tag": "0.1.3"
                 }
             ]
         },
