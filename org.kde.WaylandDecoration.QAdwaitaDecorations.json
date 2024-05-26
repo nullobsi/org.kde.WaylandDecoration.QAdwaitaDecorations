@@ -17,8 +17,8 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://github.com/FedoraQt/QAdwaitaDecorations.git",
-                    "tag": "0.1.5"
+                    "url": "https://github.com/nullobsi/QAdwaitaDecorations.git",
+					"branch": "bab35786fa982d7f958542d1eef5cc01879b9158"
                 }
             ]
         },
